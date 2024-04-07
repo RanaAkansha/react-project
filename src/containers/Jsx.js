@@ -60,5 +60,5 @@ function Jsx() {
 export default Jsx;
 
 export function Greet (){
-   return <h1>Hello World</h1>
+   return <h1>Hello React</h1>
 }
